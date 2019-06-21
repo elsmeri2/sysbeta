@@ -1,5 +1,5 @@
 {
-	"token": "token",
+	"token": "NTkxMDMxOTI0NDEyMjUyMTYy.XQq4Gg.UvdT9tDwSiGDSNF3fhTq3VLd16g",
 	"osutoken": "token",
 	"carbonitex": "token",
 	"discordbot": "token",
@@ -21,7 +21,7 @@
 		"id":"hook_id",
 		"token":"hook_token"
 	},
-	"prefix": "$$",
+	"prefix": "$",
 	"ownerid": "138338704937713664",
 	"author": "Shiigehiro#0164",
 	"invite": "https://discordapp.com/oauth2/authorize?permissions=268954646&client_id=226393343385403403&scope=bot",
